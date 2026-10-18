@@ -1,0 +1,108 @@
+Scraped page 1 total books so far: 20
+Scraped page 2 total books so far: 40
+Scraped page 3 total books so far: 60
+Scraped page 4 total books so far: 80
+Scraped page 5 total books so far: 100
+Scraped page 6 total books so far: 120
+Scraped page 7 total books so far: 140
+Scraped page 8 total books so far: 160
+Scraped page 9 total books so far: 180
+Scraped page 10 total books so far: 200
+Scraped page 11 total books so far: 220
+Scraped page 12 total books so far: 240
+Scraped page 13 total books so far: 260
+Scraped page 14 total books so far: 280
+Scraped page 15 total books so far: 300
+Scraped page 16 total books so far: 320
+Scraped page 17 total books so far: 340
+Scraped page 18 total books so far: 360
+Scraped page 19 total books so far: 380
+Scraped page 20 total books so far: 400
+Scraped page 21 total books so far: 420
+Scraped page 22 total books so far: 440
+Scraped page 23 total books so far: 460
+Scraped page 24 total books so far: 480
+Scraped page 25 total books so far: 500
+Scraped page 26 total books so far: 520
+Scraped page 27 total books so far: 540
+Scraped page 28 total books so far: 560
+Scraped page 29 total books so far: 580
+Scraped page 30 total books so far: 600
+Scraped page 31 total books so far: 620
+Scraped page 32 total books so far: 640
+Scraped page 33 total books so far: 660
+Scraped page 34 total books so far: 680
+Scraped page 35 total books so far: 700
+Scraped page 36 total books so far: 720
+Scraped page 37 total books so far: 740
+Scraped page 38 total books so far: 760
+Scraped page 39 total books so far: 780
+Scraped page 40 total books so far: 800
+Scraped page 41 total books so far: 820
+Scraped page 42 total books so far: 840
+Scraped page 43 total books so far: 860
+Scraped page 44 total books so far: 880
+Scraped page 45 total books so far: 900
+Scraped page 46 total books so far: 920
+Scraped page 47 total books so far: 940
+Scraped page 48 total books so far: 960
+Scraped page 49 total books so far: 980
+Scraped page 50 total books so far: 1000
+
+                                   Title  ...                                        Product URL
+0                   A Light in the Attic  ...  https://books.toscrape.com/catalogue/a-light-i...
+1                     Tipping the Velvet  ...  https://books.toscrape.com/catalogue/tipping-t...
+2                             Soumission  ...  https://books.toscrape.com/catalogue/soumissio...
+3                          Sharp Objects  ...  https://books.toscrape.com/catalogue/sharp-obj...
+4  Sapiens: A Brief History of Humankind  ...  https://books.toscrape.com/catalogue/sapiens-a...
+
+[5 rows x 5 columns]
+['Title', 'Price', 'Rating', 'Availability', 'Product URL']
+Saved competitor_books.csv
+
+MISSION 4 ANSWERS
+1. Most expensive book: The Perfect Play (Play by Play #1) - 59.99
+2. Cheapest book: An Abundance of Katherines - 10.0
+3. Average price: 35.07
+4. Number of 5 star books: 196
+5. Percentage in stock: 100.0 %
+6. Top 5 highest rated books:
+                                                     Title  Price  Rating
+                                An Abundance of Katherines  10.00       5
+                                      Greek Mythic History  10.23       5
+The Power Greens Cookbook: 140 Delicious Superfood Recipes  11.05       5
+                                        Dear Mr. Knightley  11.21       5
+                                       The Darkest Corners  11.33       5
+7. Cheapest 5 star book: An Abundance of Katherines - 10.0
+
+Average price by rating:
+Rating
+1    34.56
+2    34.81
+3    34.69
+4    36.09
+5    35.37
+Name: Price, dtype: float64
+
+CEO 100 POUND CHALLENGE
+                                                                                  Title  Price  Rating
+                                                  Old School (Diary of a Wimpy Kid #10)  11.83       5
+                                                                   Greek Mythic History  10.23       5
+                                                                     Dear Mr. Knightley  11.21       5
+                                                                  The Origin of Species  10.01       4
+Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories  11.38       5
+                             The Power Greens Cookbook: 140 Delicious Superfood Recipes  11.05       5
+                                                                    The Darkest Corners  11.33       5
+                                                             An Abundance of Katherines  10.00       5
+                                               Fruits Basket, Vol. 2 (Fruits Basket #2)  11.64       5
+Total cost: 98.68
+Total rating score: 44
+
+Books at each star level:
+Rating
+1    226
+2    196
+3    203
+4    179
+5    196
+Name: count, dtype: int64
